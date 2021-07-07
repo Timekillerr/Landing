@@ -4,6 +4,7 @@ body:after {
   margin: 0;
   box-sizing: border-box;
   font-family: arial;
+  background-color: rgb(221, 4, 4);
 }
 
 h1,
@@ -116,7 +117,8 @@ h6 {
   line-height: 24px;
   font-weight: 400;
   color: #445162;
-  float: left
+  
+
 }
 
 .about-video {
